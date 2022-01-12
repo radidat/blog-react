@@ -1,0 +1,3 @@
+https://minimalissimo.com/creators
+https://blog.stackfindover.com/best-css-card-design-for-website/
+https://css-tricks.com/hamburger-menu-with-a-side-of-react-hooks-and-styled-components/
